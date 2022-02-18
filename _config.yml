@@ -4,7 +4,7 @@
 theme: jekyll-theme-chirpy
 
 # 站点基础设置
-url: 'https://blog.walterlv.com'
+url: 'https://dashenxian.github.io'
 baseurl: ''
 lang: zh-CN                            # _data/locales 文件夹中同名文件
 timezone: Asia/Shanghai
