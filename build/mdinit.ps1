@@ -1,1 +1,1 @@
-dotnet build\mdmeta\mdmeta.dll init
+dotnet build\mdmeta\mdmeta.dll winit
