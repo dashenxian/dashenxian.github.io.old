@@ -7,25 +7,25 @@ permalink: /friends/
 tail_includes:
   - comments
 ---
-<!--
+
 ## dotnet职业技术学院成员
 
-- [林德熙 https://blog.lindexi.com/](https://blog.lindexi.com/)
+- [林德熙 https://blog.lindexi.com/](https://blog.lindexi.com/)  
     微软最有价值专家（MVP），也是我的好朋友
 
 - [李少珺](https://blog.sdlsj.net/)
 
-- [J.晒太阳的猫 - 博客园](https://www.cnblogs.com/jasongrass/)
+- [J.晒太阳的猫 - 博客园](https://www.cnblogs.com/jasongrass/)  
     从 WPF 的坑里爬出来的开发大神
 
-- [【Iron 的博客】每当接触新的知识，都有一种莫名的欣喜，乐于用旧知识来推敲，故而载之 - CSDN博客](https://blog.csdn.net/Iron_Ye)
+- [【Iron 的博客】每当接触新的知识，都有一种莫名的欣喜，乐于用旧知识来推敲，故而载之 - CSDN博客](https://blog.csdn.net/Iron_Ye)  
     WPF 大佬，专业做动画和 3D 是 dotnet 职业技术学院的校长
 
 ---
 
 ## 朋友
 
-- [大贤者初春令月](https://mourinaruto.github.io/zh/)
+- [大贤者初春令月](https://mourinaruto.github.io/zh/)  
   NSudo、NanaZip 的开发者，对 Windows 的机制有很深的了解
 - [gandalfliang的个人博客](https://gandalfliang.github.io/)
 - [黄腾霄 - huangtengxiao](https://huangtengxiao.gitee.io/)
@@ -64,7 +64,7 @@ tail_includes:
 - [Ron.Liang - 博客园](https://www.cnblogs.com/viter/)
 - [木杉的博客 - 要么精通，要么死](http://imushan.com/)
 - [HandyOrg/HandyControl - 纳边](https://github.com/HandyOrg/HandyControl) WPF 控件库
-- [什么是WPF - The complete WPF tutorial](https://wpf-tutorial.com/zh/1/%E5%85%B3%E4%BA%8Ewpf/%E4%BB%80%E4%B9%88%E6%98%AFwpf/)
+- [什么是WPF - The complete WPF tutorial](https://wpf-tutorial.com/zh/1/%E5%85%B3%E4%BA%8Ewpf/%E4%BB%80%E4%B9%88%E6%98%AFwpf/)  
     由 Ryzen、玩命夜狼 等翻译
 
 ---
@@ -103,7 +103,7 @@ tail_includes:
 
 ## 海外
 
-- [Nick Waggoner – Thoughs and Inishgts on Software, Leadership, Business, & Effectiveness](http://www.nickwaggoner.com/)
+- [Nick Waggoner – Thoughs and Inishgts on Software, Leadership, Business, & Effectiveness](http://www.nickwaggoner.com/)  
     Nick Waggoner 供职于微软 native Windows UI platform
 - [Nate McMaster](https://www.natemcmaster.com/)
 - [Stephen Cleary (the blog)](https://blog.stephencleary.com/)
@@ -217,7 +217,7 @@ tail_includes:
 - Mark Arteaga 	<https://www.redbitdev.com/blog>
 - Alex Sorokoletov 	<http://sorokoletov.com>
 - Mark MacDonnell	<https://www.markmacdonnell.ca>
--->
+
 ---
 
 <!-- https://www.mutuduxf.com/feed.xml

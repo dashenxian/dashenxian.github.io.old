@@ -4,57 +4,61 @@
 theme: jekyll-theme-chirpy
 
 # 站点基础设置
-url: 'https://dashenxian.github.io'
+url: 'https://blog.walterlv.com'
 baseurl: ''
 lang: zh-CN                            # _data/locales 文件夹中同名文件
 timezone: Asia/Shanghai
 
 # jekyll SEO 标签设置 › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-title: xiaoshenxian                        # the main title
-tagline: Blog site of xiaoshenxian         # it will display as the sub-title
+title: walterlv                        # the main title
+tagline: Blog site of walterlv         # it will display as the sub-title
 description: >-                        # used by seo meta and the atom feed
-  小神仙的博客。.NET/C#/WinUI/MAUI/WPF Windows
+  吕毅的博客。.NET/C#/WinUI/MAUI/WPF Windows
+  应用开发者，微软最有价值专家，Microsoft MVP。
 
 # 文章设置
-author: 小神仙
-post_author: 小神仙
-description: 小神仙，.NET/Silverlight/Web 开发者
-mail: 123880321@qq.com
-about: .NET and Web Developer
+author: 吕毅
+post_author: 吕毅
+description: 吕毅的博客。.NET/C#/WinUI/MAUI/WPF Windows 应用开发者，微软最有价值专家，Microsoft MVP。
+mail: walter.lv@qq.com
+about: .NET and Windows App Developer, Microsoft MVP
 
 # 社交账号设置
 github:
-  username: dashenxian
-  link: https://github.com/dashenxian
+  username: walterlv
+  link: https://github.com/walterlv
 facebook:
-  username:
+  username: Xblero
 twitter:
-  username:
+  username: _lvyi_
 stackoverflow:
-  link:
+  link: https://stackoverflow.com/users/6233938/walterlv
 
 social:
-  name:
-  email:
+  name: walterlv
+  email: walter.lv@qq.com
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/dashenxian
+    - https://github.com/walterlv
+    - https://stackoverflow.com/users/6233938/walterlv
+    - https://twitter.com/_lvyi_
+    - https://www.facebook.com/Xblero
 
 # 访问追踪
 analytics:
-  google:
-  cnzz:
+  google: UA-108101550-1
+  cnzz: cnzz_stat_icon_1264408226
 disqus:
-  name:
-  url:
+  name: walterlv
+  url: https://walterlv.com
 gitment:
-  owner:
-  client_id:
-  client_secret:
-  repo:
+  owner: walterlv
+  client_id: 9a8b44a07f269679e9b5
+  client_secret: 3412cef75373074fd43b62462a7adef7ad1e2127
+  repo: walterlv.github.io
 leancloud:
-  appid:
-  appkey:
+  appid: 2NpLNUTfjU4ey5wOeWPPiXXL-gzGzoHsz
+  appkey: OeA2qCtXi7ifv96UbMQ4J1kn
 
 # 外观设置
 # Prefer color scheme setting.
@@ -80,10 +84,10 @@ img_cdn:
 logo: /assets/img/logo.png
 icon: /favicon.ico
 avatar:
-  img:
-  alt:
-  url:
-  hint:
+  img: /assets/img/mvp.svg
+  alt: Microsoft MVP
+  url: https://mvp.microsoft.com/en-us/PublicProfile/5003225
+  hint: 查看我的微软 MVP 主页
 license:
   img: /assets/img/by-nc-sa.svg
 
@@ -125,7 +129,7 @@ defaults:
       type: posts
     values:
       layout: post
-      author: "小神仙"
+      author: "吕毅"
       comments: true    # Enable comments in posts.
       toc: true         # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
